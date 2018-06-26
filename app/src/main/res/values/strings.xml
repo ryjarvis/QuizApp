@@ -1,0 +1,43 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Soccer Quiz</string>
+
+    <string name="question1">1. Who is this player?</string>
+
+    <string name="question2">2. Which Player has been awarded with the most Pichichi Trophy(La Liga top scorer)?</string>
+    <string name="question2_opt1">Lionel Messi</string>
+    <string name="question2_opt2">Telmo Zarra</string>
+    <string name="question2_opt3">Cristiano Ronaldo</string>
+
+    <string name="question3">3. Choose player(s) who never won the Ballon d\'Or?</string>
+    <string name="question3_opt1">Pavel Nedvěd</string>
+    <string name="question3_opt2">Michael Owen</string>
+    <string name="question3_opt3">Steven Gerrard</string>
+    <string name="question3_opt4">Thierry Henry</string>
+
+    <string name="question4">4. Which team won 1998 Fifa world cup?</string>
+
+    <string name="question5">5. When was the last time Peru qualified for the World Cup Finals?</string>
+    <string name="question5_opt1">1982</string>
+    <string name="question5_opt2">1986</string>
+    <string name="question5_opt3">1990</string>
+
+    <string name="question6">6. Which player kept Maradona out of the 1978 Argentine World Cup squad?</string>
+
+    <string name="question7">7. Which former winners did Brazil beat in the 1970 semi final?</string>
+    <string name="question7_opt1">Uruguay</string>
+    <string name="question7_opt2">Italy</string>
+    <string name="question7_opt3">Germany</string>
+    <string name="question7_opt4">France</string>
+
+    <string name="question8">8. Who scored for Spain to beat Netherland at the 2010 finals?</string>
+
+    <string name="question9">9. Who provided the cross for Zinédine Zidane\'s volley in the 2002 final?</string>
+    <string name="question9_opt1">Roberto Carlos</string>
+    <string name="question9_opt2">Luis Figo</string>
+    <string name="question9_opt3">Sergio Ramos</string>
+
+    <string name="question10">10. Who scored Manchester City\'s first UEFA Champions League goal?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+</resources>
