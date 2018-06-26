@@ -4,7 +4,7 @@ This application is developed as part of the final Udacity Android Basic course.
 
 It was part of the requirement to develope an android app that has different views and there is if condition that accumulates the user's score. I developed a method that verifies the user's input and used combination of views to acheive that. The final result being shown using Toast. 10 Soccer questions has been used in this project with the combination of multiple choice, single choice and edit text.
 Below you can find the correct answers and screenshots of the finished product.
-![screenshot_0|512x397,20%](https://user-images.githubusercontent.com/17011836/41891536-e2f025a8-78e2-11e8-9499-08671d9de6eb.png)
+![very good|512x397,20%](https://user-images.githubusercontent.com/17011836/41891536-e2f025a8-78e2-11e8-9499-08671d9de6eb.png)
 
 * Question 1 - Correct Answer is "Guardiola"
 * Question 2 - Correct Answer is (2)
