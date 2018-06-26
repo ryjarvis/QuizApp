@@ -6,6 +6,8 @@ It was part of the requirement to develope an android app that has different vie
 Below you can find the correct answers and screenshots of the finished product.
 
 
+![screenshot_0](https://user-images.githubusercontent.com/17011836/41891536-e2f025a8-78e2-11e8-9499-08671d9de6eb.png)
+
 
 * Question 1 - Correct Answer is "Guardiola"
 * Question 2 - Correct Answer is (2)
