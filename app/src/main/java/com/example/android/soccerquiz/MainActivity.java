@@ -27,31 +27,6 @@ public class MainActivity extends AppCompatActivity {
     public static final String ANSWER8= "iniesta";
     public static final String ANSWER10= "kolarov";
 
-    EditText question2_answer;
-    // Question 3
-    CheckBox question3_opt1;
-    CheckBox question2_opt2;
-    CheckBox question3_opt3;
-    CheckBox question3_opt4;
-    // Question 4
-    EditText question4_answer;
-    // Question 5
-    RadioButton question5_opt2;
-    // Question 6
-    EditText question6_answer;
-    // Question 7
-    CheckBox question7_opt1;
-    CheckBox question7_opt2;
-    CheckBox question7_opt3;
-    CheckBox question7_opt4;
-    // Question 8
-    EditText question8_answer;
-    // Question 9
-    RadioButton question9_opt2;
-    // Question 10
-    EditText question10_answer;
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -186,3 +161,4 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 }
+
